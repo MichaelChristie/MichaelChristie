@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelChristie
 - 👀 I’m interested in Figma, Design Tokens and MUI
-- 🌱 I’m currently learning JSON, React
+- 🌱 I’m currently learning JSON, React and Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
